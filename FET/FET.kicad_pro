@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 10.8,
-          "width": 9.4
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -120,9 +120,8 @@
       },
       "track_widths": [
         0.0,
-        0.419762,
-        0.5,
-        0.8
+        1.0,
+        1.8
       ],
       "via_dimensions": [
         {
@@ -349,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OPLL_old.kicad_pro",
+    "filename": "FET.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -428,7 +427,7 @@
   },
   "sheets": [
     [
-      "0c36430c-e0be-4a04-9111-68db3d0e34b0",
+      "ca416a85-987c-4184-89aa-207ec28437df",
       ""
     ]
   ],
